@@ -1,7 +1,7 @@
 # FOIA-Test-Collection
 This repository contains a dataset of files annontated for FOIA 5 exemption. In each folder, there are two files that contain the labeled paragraphs but in different extensions. We create a tsv and xslx files for each batch. Both files follow the same format where each row is formatted as follows.
 
-Annotator1 <TAB> Annotator2 <TAB> Resolve1&2 <TAB> Paragraph
+Annotator1 \t Annotator2 \t Resolve1&2 \t Paragraph
 
 
 More details can be found at the following paper.
